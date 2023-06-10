@@ -14,7 +14,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "gatsby": "^2.19.7",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-sharp": "^2.4.12",
     "gatsby-source-prismic-graphql": "^3.5.0",
     "gatsby-transformer-sharp": "^2.3.18",
